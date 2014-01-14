@@ -4,8 +4,6 @@ GEM
     activesupport (3.2.16)
       i18n (~> 0.6, >= 0.6.4)
       multi_json (~> 1.0)
-    bootstrap-sass (3.0.3.0)
-      sass (~> 3.2)
     chunky_png (1.2.9)
     coffee-script (2.2.0)
       coffee-script-source
@@ -94,7 +92,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootstrap-sass (~> 3.0.3.0)
   middleman (~> 3.2.1)
   middleman-livereload (~> 3.1.0)
   wdm (~> 0.1.0)
