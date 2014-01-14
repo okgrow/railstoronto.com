@@ -1,0 +1,118 @@
+@charset "utf-8"
+
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,200,700)
+
+
+body
+  background-color: #C03329
+  color: #52616D
+  font-family: Raleway, sans-serif
+  font-size: 16px
+  line-height: 24px
+
+h1
+  font-family: Raleway, sans-serif
+  color: white
+  font-weight: 300
+  font-size: 52px
+  line-height: 62px
+  margin: 0
+  padding: 90px 0 90px
+  text-align: center
+  letter-spacing: 2px
+  color: white
+  background-color: #e74c3c
+  background-image: url("/images/train.jpg"), url("/images/railmine.jpg")
+  background-size: 620px 513px, 780px 245px
+  background-position: 0px -15px, top right
+  background-repeat: no-repeat, no-repeat
+  @media (max-width: 1440px)
+    background-position: -150px -15px, right -150px top
+  @media (max-width: 1110px)
+    background-position: -220px 0px, right -250px top
+  @media (max-width: 900px)
+    background-image: none
+
+.love
+  font-size: 14px
+  margin: 0
+  text-align: center
+  color: white
+  padding: 0px 0 50px
+  a
+    color: white
+    text-decoration: none
+    border-bottom: 1px solid white
+
+.background
+  position: relative
+  padding: 0 300px
+  width: 750px
+  margin: 0 auto
+  @media (max-width: 1350px)
+    padding: 0
+  @media (max-width: 765px)
+    width: auto
+    padding: 0 10px 0
+  .main
+    margin-top: 40px
+    p
+      color: white
+      padding: 0 100px 20px
+      &:first-letter
+        font-size: 250%
+        padding-right: 2px
+      @media (max-width: 765px)
+        padding: 0 12% 20px
+    h1
+      text-align: center
+      background-color: #C03329
+      color: white
+      margin: -50px -50px 50px -50px
+
+    h3
+      border-top: 1px solid #840709
+      border-left: 1px solid #840709
+      border-right: 1px solid #840709
+      border-top-left-radius: 5px
+      border-top-right-radius: 5px
+      margin-bottom: 0px
+      padding-bottom: 15px
+      text-indent: 22px
+      padding-top: 15px
+      background-color: #f5f1e1
+      color: #8C0303
+      position: relative
+      @media (max-width: 765px)
+        margin-top: 0px
+
+    ul
+      background-color: white
+      margin-top: 0px
+      padding-top: 15px
+      padding-bottom: 15px
+      margin-bottom: 50px
+      border-bottom: 1px solid #840709
+      border-left: 1px solid #840709
+      border-right: 1px solid #840709
+      border-bottom-left-radius: 5px
+      border-bottom-right-radius: 5px
+      @media (max-width: 765px)
+        padding-left: 5%
+        margin-bottom: 10px
+      li
+        width: 100%
+        padding: 5px 0
+        border-bottom: 1px solid #eee
+        list-style-type: none
+        a
+          text-decoration: none
+          color: #3498db
+          &:hover
+            border-bottom: 1px solid #3498db
+        em
+          float: right
+          padding-right: 25px
+          color: #97a6b1
+          font-weight: 300
+          width: 50%
