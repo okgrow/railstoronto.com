@@ -30,6 +30,7 @@ Roster](http://www.techroster.to/) and tag yourself with "rails".
 * [Add more companies here...](https://github.com/okgrow/railstoronto.com)
 * [OK GROW!](http://okgrow.com) - Expert web and mobile app development
 * [Remarkable Labs](http://www.remarkablelabs.com/)
+* [State Machinery](http://state.io)
 * [The Working Group](http://www.theworkinggroup.ca/)
 * [Unspace](https://unspace.ca/)
 
