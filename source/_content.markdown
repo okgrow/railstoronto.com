@@ -38,4 +38,5 @@ Roster](http://www.techroster.to/) and tag yourself with "rails".
 
 * [Add more companies here...](https://github.com/okgrow/railstoronto.com)
 * [500px](http://500px.com)
+* [gemcanary](https://gemcanary.com/)
 * [theScore](http://beta.thescore.com)
