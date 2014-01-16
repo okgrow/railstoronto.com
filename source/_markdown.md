@@ -1,95 +1,34 @@
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A simple guide to the Ruby on Rails community in Toronto. It's [open
+source](https://github.com/okgrow/railstoronto.com) so please contribute
+anything that's missing, either by email to [paul@okgrow.com](paul@okgrow.com)
+or by submitting a [pull request on
+GitHub](https://github.com/okgrow/railstoronto.com) (keep the alphabetical
+order please).
+
+### Developers (Individuals)
+
+* [See the listings on Toronto Tech Roster](http://www.techroster.to/people?utf8=%E2%9C%93&q=%5Brails%5D) 
+* To add yourself simply add your profile on [Toronto Tech
+Roster](http://www.techroster.to/) and tag yourself with "rails".
 
 ### Development Companies
 
-* [OK GROW!](http://okgrow.com)
-* Unspace
-* Functional Imperative
-* MaRS
-* The Working Group
-* OK GROW!
-* Unspace
-* Functional Imperative
-* MaRS
-* The Working Group
-* OK GROW!
-* Unspace
-* Functional Imperative
-* MaRS
-* The Working Group
-* OK GROW!
-* Unspace
-* Functional Imperative
-* MaRS
-* The Working Group
-* OK GROW!
-* Unspace
-* Functional Imperative
-* MaRS
-* The Working Group
-* OK GROW!
-* Unspace
-* Functional Imperative
-* MaRS
-* The Working Group
-* OK GROW!
-* Unspace
-* Functional Imperative
-* MaRS
-* The Working Group
-* OK GROW!
-* Unspace
-* Functional Imperative
-* MaRS
-* The Working Group
+* [Add more companies here...](https://github.com/okgrow/railstoronto.com)
+* [OK GROW!](http://okgrow.com) - Expert web and mobile app development
+* [Remarkable Labs](http://www.remarkablelabs.com/)
+* [The Working Group](http://www.theworkinggroup.ca/)
+* [Unspace](https://unspace.ca/)
 
 ### Events
 
-* Startup Metrics Toronto
-* AndroidTO
-* Functional Imperative
-* MaRS
-* The Working Group
-* OK GROW!
-* Unspace
-* Functional Imperative
-* MaRS
-* The Working Group
-* OK GROW!
-* Unspace
-* Functional Imperative
-* MaRS
-* The Working Group
-* OK GROW!
-* Unspace
-* Functional Imperative
-* MaRS
-* The Working Group
+* [Add more events here...](https://github.com/okgrow/railstoronto.com)
+* [Rails Pub Nite](https://unspace.ca/events/) - Toronto's oldest regular Ruby on Rails event
+* [Toronto Ruby Brigade](http://www.meetup.com/torontoruby/) - A Ruby meetup
 
 ### Education
 
-* [BitmakerLabs](http://bitmakerlabs.com) - Bitmaker Labs is an intense 9-week bootcamp that turns beginners into software developers. Located in Toronto, ON.
-* Unspace
-* Functional Imperative
-* MaRS
-* The Working Group
-* OK GROW!
-* Unspace
-* Functional Imperative
-* MaRS
-* The Working Group
-* OK GROW!
-* Unspace
-* Functional Imperative
-* MaRS
-* The Working Group
-* OK GROW!
-* Unspace
-* Functional Imperative
-* MaRS
-* The Working Group
+* [Add more schools here...](https://github.com/okgrow/railstoronto.com)
+* [Bitmaker Labs](http://bitmakerlabs.com/)
+* [BrainStation](http://brainstation.it/)
+* [hackerYou](http://hackeryou.com/)
+* [Ladies Learning Code](http://ladieslearningcode.com/) - A women-run not-for-profit group
