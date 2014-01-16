@@ -36,4 +36,5 @@ Roster](http://www.techroster.to/) and tag yourself with "rails".
 ### Other Companies Using Rails
 
 * [Add more companies here...](https://github.com/okgrow/railstoronto.com)
+* [gemcanary](https://gemcanary.com/)
 * [theScore](http://beta.thescore.com)
