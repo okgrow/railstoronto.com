@@ -1,0 +1,10 @@
+<script type="text/javascript">
+  <% if ARGV.include?("server") %>
+    var log_tracking = true;
+  <% else %>
+    var log_tracking = false;
+    analytics.initialize({
+      'Google Analytics' : 'UA-47206413-1'
+    });
+  <% end %>
+</script>
