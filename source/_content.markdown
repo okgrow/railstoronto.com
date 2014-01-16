@@ -18,6 +18,7 @@ Roster](http://www.techroster.to/) and tag yourself with "rails".
 * [Remarkable Labs](http://www.remarkablelabs.com/)
 * [The Working Group](http://www.theworkinggroup.ca/)
 * [Unspace](https://unspace.ca/)
+* [theScore](http://beta.thescore.com)
 
 ### Events
 
