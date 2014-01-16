@@ -11,14 +11,13 @@ order please).
 * To add yourself simply add your profile on [Toronto Tech
 Roster](http://www.techroster.to/) and tag yourself with "rails".
 
-### Development Companies
+### Development Companies For Hire
 
 * [Add more companies here...](https://github.com/okgrow/railstoronto.com)
 * [OK GROW!](http://okgrow.com) - Expert web and mobile app development
 * [Remarkable Labs](http://www.remarkablelabs.com/)
 * [The Working Group](http://www.theworkinggroup.ca/)
 * [Unspace](https://unspace.ca/)
-* [theScore](http://beta.thescore.com)
 
 ### Events
 
@@ -33,3 +32,8 @@ Roster](http://www.techroster.to/) and tag yourself with "rails".
 * [BrainStation](http://brainstation.it/)
 * [hackerYou](http://hackeryou.com/)
 * [Ladies Learning Code](http://ladieslearningcode.com/) - A women-run not-for-profit group
+
+### Other Companies Using Rails
+
+* [Add more companies here...](https://github.com/okgrow/railstoronto.com)
+* [theScore](http://beta.thescore.com)
