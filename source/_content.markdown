@@ -28,6 +28,7 @@ Roster](http://www.techroster.to/) and tag yourself with "rails".
 ### Development Companies For Hire
 
 * [Add more companies here...](https://github.com/okgrow/railstoronto.com)
+* [Metaware Labs Inc](http://metawarelabs.com)
 * [OK GROW!](http://okgrow.com) - Expert web and mobile app development
 * [Remarkable Labs](http://www.remarkablelabs.com/)
 * [State Machinery](http://state.io)
