@@ -39,11 +39,16 @@ Roster](http://www.techroster.to/) and tag yourself with "rails".
 ### Other Companies Using Rails
 
 * [Add more companies here...](https://github.com/okgrow/railstoronto.com)
+* [4ormat](http://4ormat.com/)
 * [500px](http://500px.com)
+* [FinanceIt](https://www.financeit.ca/)
 * [gemcanary](https://gemcanary.com/)
 * [Joist](http://joist.com)
 * [Mosaic Sales Solutions](http://mosaic.com)
+* [Nulogy](http://nulogy.com/)
+* [Quandl](http://quandl.com)
 * [Shopify](http://shopify.com)
 * [Stylekick](http://stylekick.com)
 * [theScore](http://beta.thescore.com)
-* [Quandl](http://quandl.com)
+* [Uken Games](http://uken.com/)
+* [Wave Accounting](https://www.waveapps.com/)
