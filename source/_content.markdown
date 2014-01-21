@@ -43,7 +43,7 @@ Roster](http://www.techroster.to/) and tag yourself with "rails".
 * [500px](http://500px.com)
 * [FinanceIt](https://www.financeit.ca/)
 * [gemcanary](https://gemcanary.com/)
-* [Joist](http://joist.com)
+* [Joist](http://joistapp.com)
 * [Mosaic Sales Solutions](http://mosaic.com)
 * [Nulogy](http://nulogy.com/)
 * [Quandl](http://quandl.com)
