@@ -1,6 +1,6 @@
 A simple guide to the Ruby on Rails community in Toronto. It's [open
 source](https://github.com/okgrow/railstoronto.com) so please contribute
-anything that's missing, either by email to [paul@okgrow.com](paul@okgrow.com)
+anything that's missing, either by email to <a href="mailto:paul@okgrow.com">paul@okgrow.com</a>
 or by submitting a [pull request on
 GitHub](https://github.com/okgrow/railstoronto.com) (keep the alphabetical
 order please).
