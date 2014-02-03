@@ -7,12 +7,14 @@ order please).
 
 ### Events
 
+* [+](https://github.com/okgrow/railstoronto.com)
 * [Add more events here...](https://github.com/okgrow/railstoronto.com)
 * [Rails Pub Nite](https://unspace.ca/events/) - Toronto's oldest regular Ruby on Rails event
 * [Toronto Ruby Brigade](http://www.meetup.com/torontoruby/) - A Ruby meetup
 
 ### Education
 
+* [+](https://github.com/okgrow/railstoronto.com)
 * [Add more schools here...](https://github.com/okgrow/railstoronto.com)
 * [Bitmaker Labs](http://bitmakerlabs.com/)
 * [BrainStation](http://brainstation.it/)
@@ -21,12 +23,14 @@ order please).
 
 ### Developers (Individuals)
 
+* [+](https://github.com/okgrow/railstoronto.com)
 * [See the listings on Toronto Tech Roster](http://www.techroster.to/people?utf8=%E2%9C%93&q=%5Brails%5D) 
 * To add yourself simply add your profile on [Toronto Tech
 Roster](http://www.techroster.to/) and tag yourself with "rails".
 
 ### Development Companies For Hire
 
+* [+](https://github.com/okgrow/railstoronto.com)
 * [Add more companies here...](https://github.com/okgrow/railstoronto.com)
 * [Functional Imperative](http://functionalimperative.com)
 * [Metaware Labs Inc](http://metawarelabs.com)
@@ -38,6 +42,7 @@ Roster](http://www.techroster.to/) and tag yourself with "rails".
 
 ### Other Companies Using Rails
 
+* [+](https://github.com/okgrow/railstoronto.com)
 * [Add more companies here...](https://github.com/okgrow/railstoronto.com)
 * [4ormat](http://4ormat.com/)
 * [500px](http://500px.com)
