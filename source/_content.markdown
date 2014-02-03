@@ -23,7 +23,7 @@ order please).
 
 ### Developers (Individuals)
 
-* [+](https://github.com/okgrow/railstoronto.com)
+* [+](http://www.techroster.to/)
 * [See the listings on Toronto Tech Roster](http://www.techroster.to/people?utf8=%E2%9C%93&q=%5Brails%5D) 
 * To add yourself simply add your profile on [Toronto Tech
 Roster](http://www.techroster.to/) and tag yourself with "rails".
