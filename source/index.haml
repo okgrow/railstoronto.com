@@ -1,17 +1,19 @@
-.train-container
-  .train
+.wrapper
+  .rubies
 
-.welcome
-  %h1 Ruby on Rails in Toronto
-  
-  .background
-    .main
+  #header
+    .rails-logo
+    %h1 Ruby on Rails in Toronto
+    .toronto-skyline
+
+  #content
+    #main
       = partial "content"
 
-  .love
-    Hacked in our spare time
-    %span.heart ♥
-    at
-    %a{:href => "http://www.okgrow.com"} OK GROW!
-    .grow-037
-      GROW-037
+    .love
+      Hacked in our spare time
+      %span.heart ♥
+      at
+      %a.okgrow{:href => "http://www.okgrow.com"} OK GROW!
+      .grow-038
+        GROW-037
