@@ -1,6 +1,6 @@
 A simple guide to the Ruby on Rails community in Toronto. It's [open
 source](https://github.com/okgrow/railstoronto.com) so please contribute
-anything that's missing, either by email to [paul@okgrow.com](paul@okgrow.com)
+anything that's missing, either by email to <a href="mailto:paul@okgrow.com">paul@okgrow.com</a>
 or by submitting a [pull request on
 GitHub](https://github.com/okgrow/railstoronto.com) (keep the alphabetical
 order please).
@@ -44,6 +44,17 @@ Roster](http://www.techroster.to/) and tag yourself with "rails".
 
 * [+](https://github.com/okgrow/railstoronto.com)
 * [Add more companies here...](https://github.com/okgrow/railstoronto.com)
+* [4ormat](http://4ormat.com/)
 * [500px](http://500px.com)
+* [FinanceIt](https://www.financeit.ca/)
 * [gemcanary](https://gemcanary.com/)
+* [Joist](http://joistapp.com)
+* [Mosaic Sales Solutions](http://mosaic.com)
+* [Nulogy](http://nulogy.com/)
+* [Quandl](http://quandl.com)
+* [Shopify](http://shopify.com)
+* [Stylekick](http://stylekick.com)
 * [theScore](http://beta.thescore.com)
+* [Uken Games](http://uken.com/)
+* [Wave Accounting](https://www.waveapps.com/)
+* [WineAlign](http://www.winealign.com/)
