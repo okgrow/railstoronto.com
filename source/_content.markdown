@@ -53,6 +53,7 @@ Roster](http://www.techroster.to/) and tag yourself with "rails".
 * [Nulogy](http://nulogy.com/)
 * [Quandl](http://quandl.com)
 * [Shopify](http://shopify.com)
+* [ShopLocket](https://www.shoplocket.com/jobs) - Building a platform for hardware entrepreneurs to bring their products to life and into the hands of consumers
 * [Stylekick](http://stylekick.com)
 * [theScore](http://beta.thescore.com)
 * [Uken Games](http://uken.com/)
