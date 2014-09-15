@@ -32,6 +32,7 @@ Roster](http://www.techroster.to/) and tag yourself with "rails".
 
 * [+](https://github.com/okgrow/railstoronto.com)
 * [Add more companies here...](https://github.com/okgrow/railstoronto.com)
+* [DevBBQ Inc](http://www.devbbq.com) - Strategic development for products and systems
 * [Functional Imperative](http://functionalimperative.com)
 * [Metaware Labs Inc](http://metawarelabs.com)
 * [OK GROW!](http://okgrow.com) - Expert web and mobile app development
