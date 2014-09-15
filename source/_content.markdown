@@ -49,6 +49,7 @@ Roster](http://www.techroster.to/) and tag yourself with "rails".
 * [Add more companies here...](https://github.com/okgrow/railstoronto.com)
 * [4ormat](http://4ormat.com/)
 * [500px](http://500px.com)
+* [Coupgon](https://coupgon.com) - Canada's first fully digital mobile grocery coupon.
 * [FinanceIt](https://www.financeit.ca/)
 * [gemcanary](https://gemcanary.com/)
 * [Joist](http://joistapp.com)
