@@ -59,6 +59,7 @@ Roster](http://www.techroster.to/) and tag yourself with "rails".
 * [Shopify](http://shopify.com)
 * [ShopLocket](https://www.shoplocket.com/jobs) - Building a platform for hardware entrepreneurs to bring their products to life and into the hands of consumers
 * [Stylekick](http://stylekick.com)
+* [TalentNest](http://www.talentnest.com)
 * [theScore](http://beta.thescore.com)
 * [Uken Games](http://uken.com/)
 * [Wave Accounting](https://www.waveapps.com/)
