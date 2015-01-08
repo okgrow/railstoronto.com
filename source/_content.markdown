@@ -23,10 +23,8 @@ order please).
 
 ### Developers (Individuals)
 
-* [+](http://www.techroster.to/)
-* [See the listings on Toronto Tech Roster](http://www.techroster.to/people?utf8=%E2%9C%93&q=%5Brails%5D) 
-* To add yourself simply add your profile on [Toronto Tech
-Roster](http://www.techroster.to/) and tag yourself with "rails".
+* [+](http://www.meetup.com/torontoruby/join/)
+* See the members of the [Toronto Ruby Brigade meetup](http://www.meetup.com/torontoruby/)
 
 ### Development Companies For Hire
 
