@@ -60,6 +60,7 @@ order please).
 * [Stylekick](http://stylekick.com)
 * [TalentNest](http://www.talentnest.com)
 * [theScore](http://beta.thescore.com)
+* [TouchBistro](http://touchbistro.com/)
 * [Uniiverse](https://www.uniiverse.com/)
 * [Uken Games](http://uken.com/)
 * [Wave Accounting](https://www.waveapps.com/)
