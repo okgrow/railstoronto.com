@@ -12,6 +12,12 @@ order please).
 * [Rails Pub Nite](https://unspace.ca/events/) - Toronto's oldest regular Ruby on Rails event
 * [Toronto Ruby Brigade](http://www.meetup.com/torontoruby/) - A Ruby meetup
 
+### Online Community
+
+* [+](https://github.com/okgrow/railstoronto.com)
+* [Add more events here...](https://github.com/okgrow/railstoronto.com)
+* [TorontoRB Slack group](http://slack.rubytoronto.com)
+
 ### Education
 
 * [+](https://github.com/okgrow/railstoronto.com)
