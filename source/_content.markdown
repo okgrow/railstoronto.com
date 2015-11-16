@@ -67,6 +67,7 @@ order please).
 * [Shopify](http://shopify.com)
 * [ShopLocket](https://www.shoplocket.com/jobs) - Building a platform for hardware entrepreneurs to bring their products to life and into the hands of consumers
 * [SkyPrep](https://skyprep.com) - Learning Management System
+* [StackAdapt](http://www.stackadapt.com) - Native Advertising Platform
 * [Stylekick](http://stylekick.com)
 * [TalentNest](http://www.talentnest.com)
 * [theScore](http://beta.thescore.com)
