@@ -59,6 +59,7 @@ order please).
 * [Coupgon](https://coupgon.com) - Canada's first fully digital mobile grocery coupon.
 * [Evercondo](http://www.evercondo.com) - The next generation condominium platform
 * [FinanceIt](https://www.financeit.ca/)
+* [FundThrough](https://www.fundthrough.com/)
 * [gemcanary](https://gemcanary.com/)
 * [Joist](http://joistapp.com)
 * [Mosaic Sales Solutions](http://mosaic.com)
