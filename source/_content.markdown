@@ -53,6 +53,7 @@ order please).
 * [+](https://github.com/okgrow/railstoronto.com)
 * [Add more companies here...](https://github.com/okgrow/railstoronto.com)
 * [Ample Organics](http://www.ampleorganics.com/)
+* [Appcanary](https://appcanary.com/) - Never use vulnerable rubygems again
 * [Archon Systems](http://www.archonsystems.com/)
 * [4ormat](http://4ormat.com/)
 * [500px](http://500px.com)
@@ -60,7 +61,6 @@ order please).
 * [Evercondo](http://www.evercondo.com) - The next generation condominium platform
 * [FinanceIt](https://www.financeit.ca/)
 * [FundThrough](https://www.fundthrough.com/)
-* [gemcanary](https://gemcanary.com/)
 * [Joist](http://joistapp.com)
 * [Mosaic Sales Solutions](http://mosaic.com)
 * [Nulogy](http://nulogy.com/)
