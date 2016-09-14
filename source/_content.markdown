@@ -9,6 +9,7 @@ order please).
 
 * [+](https://github.com/okgrow/railstoronto.com)
 * [Add more events here...](https://github.com/okgrow/railstoronto.com)
+* [Rails Girls TO](http://www.meetup.com/railsgirlsTO/) - local Rails Girls chapter and inclusive community <3
 * [Rails Pub Nite](https://unspace.ca/events/) - Toronto's oldest regular Ruby on Rails event
 * [Ruby Lightning Talks T.O.](http://www.meetup.com/ruby-lightning-to/) - Ruby, Rails, and JS lightning talks
 * [Toronto Ruby Brigade](http://www.meetup.com/torontoruby/) - A Ruby meetup
