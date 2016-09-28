@@ -46,7 +46,6 @@ order please).
 * [Pivotal Labs](http://www.pivotallabs.com)
 * [Remarkable Labs](http://www.remarkablelabs.com/)
 * [Ryatta Group](http://www.ryatta.com/)
-* [State Machinery](http://state.io)
 * [The Working Group](http://www.theworkinggroup.ca/)
 * [Unspace](https://unspace.ca/)
 
