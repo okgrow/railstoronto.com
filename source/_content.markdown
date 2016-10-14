@@ -41,7 +41,7 @@ order please).
 * [Functional Imperative](http://functionalimperative.com)
 * [Metaware Labs Inc](http://metawarelabs.com)
 * [OK GROW!](http://okgrow.com) - Expert web and mobile app development
-* [Ongraph](http://www.ongraph.com)
+* [OnGraph](http://www.ongraph.com) - Bespoke high quality ROR Development.
 * [Pivotal Labs](http://www.pivotallabs.com)
 * [Remarkable Labs](http://www.remarkablelabs.com/)
 * [Ryatta Group](http://www.ryatta.com/)
