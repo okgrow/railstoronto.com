@@ -38,6 +38,7 @@ order please).
 
 * [+](https://github.com/okgrow/railstoronto.com)
 * [Add more companies here...](https://github.com/okgrow/railstoronto.com)
+* [Alliants](http://www.alliants.com) - UK and CA Technology consultancy
 * [DevBBQ Inc](http://www.devbbq.com) - Strategic development for products and systems
 * [Functional Imperative](http://functionalimperative.com)
 * [Metaware Labs Inc](http://metawarelabs.com)
