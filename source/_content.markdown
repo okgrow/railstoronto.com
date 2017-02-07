@@ -63,6 +63,7 @@ order please).
 * [Evercondo](http://www.evercondo.com) - The next generation condominium platform
 * [FinanceIt](https://www.financeit.ca/)
 * [FundThrough](https://www.fundthrough.com/)
+* [Info-Tech Research Group](https://www.infotech.com/)
 * [Joist](http://joistapp.com)
 * [Mosaic Sales Solutions](http://mosaic.com)
 * [Nulogy](http://nulogy.com/)
