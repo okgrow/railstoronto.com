@@ -17,7 +17,7 @@ order please).
 ### Online Community
 
 * [+](https://github.com/okgrow/railstoronto.com)
-* [Add more events here...](https://github.com/okgrow/railstoronto.com)
+* [Add more communities here...](https://github.com/okgrow/railstoronto.com)
 * [TorontoRB Slack group](http://slack.rubytoronto.com)
 
 ### Education
