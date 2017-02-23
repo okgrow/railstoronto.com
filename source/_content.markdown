@@ -24,6 +24,7 @@ order please).
 
 * [+](https://github.com/okgrow/railstoronto.com)
 * [Add more schools here...](https://github.com/okgrow/railstoronto.com)
+* [Lighthouse Labs](http://lighthouselabs.ca/)
 * [Bitmaker Labs](http://bitmakerlabs.com/)
 * [BrainStation](http://brainstation.it/)
 * [hackerYou](http://hackeryou.com/)
