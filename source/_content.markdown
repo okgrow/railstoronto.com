@@ -17,7 +17,7 @@ order please).
 ### Online Community
 
 * [+](https://github.com/okgrow/railstoronto.com)
-* [Add more events here...](https://github.com/okgrow/railstoronto.com)
+* [Add more communities here...](https://github.com/okgrow/railstoronto.com)
 * [Toronto Ruby Slack group](http://slack.torontoruby.org)
 
 ### Education
@@ -28,6 +28,7 @@ order please).
 * [BrainStation](http://brainstation.it/)
 * [hackerYou](http://hackeryou.com/)
 * [Ladies Learning Code](http://ladieslearningcode.com/) - A women-run not-for-profit group
+* [Lighthouse Labs](http://lighthouselabs.ca/)
 
 ### Developers (Individuals)
 
@@ -59,10 +60,12 @@ order please).
 * [Archon Systems](http://www.archonsystems.com/)
 * [4ormat](http://4ormat.com/)
 * [500px](http://500px.com)
+* [CareerJSM](https://careerjsm.com) - CareerJSM the best way for career centres to support students during a modern job search.
 * [Coupgon](https://coupgon.com) - Canada's first fully digital mobile grocery coupon.
 * [Evercondo](http://www.evercondo.com) - The next generation condominium platform
 * [FinanceIt](https://www.financeit.ca/)
 * [FundThrough](https://www.fundthrough.com/)
+* [Info-Tech Research Group](https://www.infotech.com/)
 * [Joist](http://joistapp.com)
 * [Mosaic Sales Solutions](http://mosaic.com)
 * [Nulogy](http://nulogy.com/)
