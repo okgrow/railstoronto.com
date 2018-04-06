@@ -18,7 +18,7 @@ order please).
 
 * [+](https://github.com/okgrow/railstoronto.com)
 * [Add more communities here...](https://github.com/okgrow/railstoronto.com)
-* [TorontoRB Slack group](http://slack.rubytoronto.com)
+* [Toronto Ruby Slack group](http://slack.torontoruby.org)
 
 ### Education
 
