@@ -80,7 +80,7 @@ order please).
 * [theScore](http://beta.thescore.com)
 * [Think Dirty](http://thinkdirtyapp.com)
 * [TouchBistro](http://touchbistro.com/)
-* [Uniiverse](https://www.uniiverse.com/)
+* [Universe](https://www.universe.com/)
 * [Uken Games](http://uken.com/)
 * [Wave Accounting](https://www.waveapps.com/)
 * [Wealthsimple](https://www.wealthsimple.com/)
